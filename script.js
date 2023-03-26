@@ -1,0 +1,1 @@
+function evento(){alert('"pera, mômôzi, eu acho que eu coisei"')}function beijo(){alert('"minha mãe vai mim mataar"')}function amor(){alert("a distância impede que eu te veja,  mas não impede que eu te ame<3")}
